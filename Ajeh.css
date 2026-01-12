@@ -1,0 +1,4 @@
+.Flex.Container {
+    display: flex;
+    gap: 10px;
+}
